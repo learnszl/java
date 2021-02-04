@@ -7,7 +7,7 @@ import java.util.Collection;
 /**
  * @Author szl
  * @Date 2021/1/29 21:39
- * @Description
+ * @Description For each测试
  */
 public class ForeachTest {
     @Test
